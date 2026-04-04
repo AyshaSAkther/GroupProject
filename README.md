@@ -18,3 +18,5 @@ Explanation of each file and its role in the system
 Challenges faced during development and how they were solved
 Security considerations and improvements
 Step-by-step user guide
+
+For info on who submitted what file, please press on the file in the reposiroy and it will tell you on the top.
