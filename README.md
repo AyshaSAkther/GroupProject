@@ -1,5 +1,5 @@
 Ahmad Huzaifa
-Syeda Akhter
+Aysha Akhter
 Zamzam Alkhadashi
 
 This project is a web-based donation platform built using PHP, MySQL, HTML, and CSS. It allows users to register, log in, create fundraising campaigns, and donate to different causes such as education, medical support, children, and immigration.
